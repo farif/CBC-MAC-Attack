@@ -13,7 +13,7 @@ Here I describe the theory behind this attack:
 
 Simply execute the attack using the command:
 
-```#python sample.py messages/*```
+```#python cbc-attack.py```
 
 If your program is successful then the verify server is tricked and will return '1' for that forged message.
 
