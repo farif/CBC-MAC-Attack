@@ -20,7 +20,7 @@ If your program is successful then the verify server is tricked and will return 
 ### Demo:
 Here is the Demo:
 
-![Demo](images/demo.png)
+![Demo](images/demo.gif)
 
 #### Dependencies (Setup):
 
